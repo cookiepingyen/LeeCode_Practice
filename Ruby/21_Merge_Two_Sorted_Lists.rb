@@ -30,10 +30,13 @@ end
 # @return {ListNode}
 
 def merge_two_lists(list1, list2)
-  dummy = ListNode.new
-  current = dummy
+    result = ListNode.new
+    current = result
 
-  while list1 && list2
+    return list1 if list2 == nil;
+    return list2 if list1 == nil;
+
+    while(list1 != nil && list2 !=nil)
       if list1.val < list2.val
           current.next = list1
           list1 = list1.next
@@ -42,20 +45,18 @@ def merge_two_lists(list1, list2)
           list2 = list2.next
       end
       current = current.next
-  end
+    end
 
-  if list1 != nil
+    if list1 != nil
       current.next = list1
-      list1 = list1.next
-  end
+    end
 
-  if list2 != nil
-  current.next = list2
-  list2 = list2.next
-  end
+    if list2 != nil
+      current.next = list2
+    end
 
-  dummy.next
-end
+    return result.next
+  end
 
 p merge_two_lists([1,2,4], [1,3,4])
 
