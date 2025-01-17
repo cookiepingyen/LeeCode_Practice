@@ -15,7 +15,7 @@ def my_sqrt(x)
     else
       left = middle
     end
-    middle = (left + right)/2
+      middle = (left + right)/2
   end
 
   left
