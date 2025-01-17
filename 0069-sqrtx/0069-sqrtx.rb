@@ -1,9 +1,22 @@
 # @param {Integer} x
 # @return {Integer}
 def my_sqrt(x)
-  n = 0
-  while (n * n <= x)
-    n += 1
+  left = 1
+  right = x
+  middle = (1 + x)/2
+
+
+  while left != middle
+    square = middle * middle
+
+    return middle if (middle * middle == x)
+    if square > x
+      right = middle
+    else
+      left = middle
+    end
+    middle = (left + right)/2
   end
-  n - 1
+
+  left
 end
