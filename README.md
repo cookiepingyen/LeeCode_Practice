@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0088-merge-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0012-integer-to-roman) |
+| [1894-merge-strings-alternately](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
