@@ -12,8 +12,5 @@ def group_anagrams(strs)
     end
   end
 
-  array.each do |sub_array|
-    sub_array.sort!
-  end
-  array.sort_by(&:length)
+  array
 end
