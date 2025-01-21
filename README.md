@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0088-merge-sorted-array) |
 ## Binary Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
