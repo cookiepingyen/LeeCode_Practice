@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0383-ransom-note) |
 | [1894-merge-strings-alternately](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0226-invert-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
