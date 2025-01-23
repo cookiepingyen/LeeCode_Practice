@@ -8,7 +8,6 @@ def climb_stairs(n)
 
   for i in 3..n
     dp[i] = dp[i-1] + dp[i-2]
-    puts "i:#{i} dp[#{i}]:#{dp[i]}"
   end
 
   dp[n]
