@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
