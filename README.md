@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0409-longest-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0409-longest-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0383-ransom-note) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
