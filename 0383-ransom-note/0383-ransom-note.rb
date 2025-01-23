@@ -2,19 +2,15 @@
 # @param {String} magazine
 # @return {Boolean}
 def can_construct(ransom_note, magazine)
-  return false if ransom_note.length > magazine.length
-  hash = {}
+  hash = Hash.new(0)
 
-  magazine.chars.each_with_index do |char|
-    hash[char] = (hash.key?(char))? hash[char]+1 : 1
+  magazine.each_char do |char|
+    hash[char] += 1
   end
 
-  ransom_note.chars.each do |char|
-    if hash.key?(char) && hash[char] > 0
-      hash[char] -= 1
-    else
-      return false
-    end
+  ransom_note.each_char do |char|
+    return false if hash[char] == 0
+    hash[char] -= 1
   end
-  return true
+  true
 end
