@@ -1,7 +1,7 @@
 # @param {Integer} n
 # @return {Integer}
 def climb_stairs(n)
-  return n if(n == 1 || n == 2)
+  return n if(n <=2)
   dp = [];
   dp[1] = 1;
   dp[2] = 2;
