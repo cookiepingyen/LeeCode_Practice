@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0409-longest-palindrome) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0409-longest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
