@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0070-climbing-stairs) |
 ## String
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0409-longest-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/1894-merge-strings-alternately) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
