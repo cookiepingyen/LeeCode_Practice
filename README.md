@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/cookiepingyen/LeeCode_Practice/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
