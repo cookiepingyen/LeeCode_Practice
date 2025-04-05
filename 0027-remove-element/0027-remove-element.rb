@@ -2,13 +2,12 @@
 # @param {Integer} val
 # @return {Integer}
 def remove_element(nums, val)
-  count = 0
-  nums.each_with_index do |num, index|
-    if num == val
-      count += 1
-    else
-      nums[(index-count)] = num
+  p1 = 0
+  0.upto(nums.length - 1) do |i|
+    if(nums[i] != val)
+      nums[p1], nums[i] = nums[i], nums[p1]
+      p1 += 1
     end
   end
-  return nums.length - count
+  p1
 end
