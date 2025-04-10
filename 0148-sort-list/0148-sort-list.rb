@@ -15,7 +15,7 @@ def sort_list(head)
   a = sort_list(a)
   b = sort_list(b)
 
-  tmp = merge(a, b)
+  merge(a, b)
 end
 
 
