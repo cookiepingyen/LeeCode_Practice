@@ -1,10 +1,14 @@
 ; run clojure -M test.clj
 
-(def dna-map {\A \T, \T \A, \G \C, \C \G})
+(require '[clojure.string :as str])
 
-(defn dna-strand [dna]
-  (apply str (map dna-map dna))
+(defn high-and-low [s]
+  ; 把字串轉成 str_array，再轉成 int_array
+  (let [nums (map #(Integer/parseInt %) (str/split s #" "))
+        max-num (apply max nums)
+        min-num (apply min nums)]
+    (str/join " " [max-num min-num]))   
 )
 
 
-(println (dna-strand "ATTGC"))
+(println (high-and-low "1 9 3 4 -5"))
